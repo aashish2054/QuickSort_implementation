@@ -1,3 +1,4 @@
+import scala.language.postfixOps
 class Sorting {
   //Method for implementing Quick sort
   def Sorting(inputList: List[Int]): List[Int] = {
